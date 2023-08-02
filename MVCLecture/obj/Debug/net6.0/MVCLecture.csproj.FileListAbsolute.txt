@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\bin\Debug\net6.0\MVCLecture.exe
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\bin\Debug\net6.0\MVCLecture.deps.json
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\bin\Debug\net6.0\MVCLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\bin\Debug\net6.0\MVCLecture.dll
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\bin\Debug\net6.0\MVCLecture.pdb
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.dll
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\refint\MVCLecture.dll
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.pdb
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\MVCLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\MVCLecture\MVCLecture\obj\Debug\net6.0\ref\MVCLecture.dll
